@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#app {
+  height: 100vh;
+  overflow: hidden;
+  background-color: #f3f3f3;;
+}
+
+.container {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.main-content {
+  padding: 0 20px;
+}
